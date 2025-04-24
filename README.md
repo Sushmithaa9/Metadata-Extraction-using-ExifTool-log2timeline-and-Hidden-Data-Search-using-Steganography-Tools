@@ -16,7 +16,8 @@ Apply steganography detection tools like steghide, zsteg, or binwalk to uncover 
 Metadata and Timeline Forensics, Steganography Analysis Steps
 
 ## OUTPUT:
-Extracted Metadata, Timeline Events, and Hidden Data Detection Results
+![image](https://github.com/user-attachments/assets/7653d925-9c08-426f-a8a2-f551cdadfbd8)
+
 
 ## RESULT:
 Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.
